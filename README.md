@@ -313,7 +313,7 @@ Output:
 
 ***Using SQL query, we were able to get the state with the least health spending, these are; Wyoming, Idaho, and Montana with the health spending value of $125.5.***
 
-**Findings:**
+## Findings:
 
 -	The top 5 states with the highest profit in descending order are; Wyoming, Oklahoma, Oregon, Montana, and Mississippi.
 -	State with the largest population: California with a total of 39,512,223.
@@ -324,12 +324,12 @@ Output:
 -	Average health spending correlates with state’s average income and average property price with a correlation coefficient score of 70%.
 -	Through conducting financial viability analysis, we found something interesting: Even though Wyoming had the highest profit, it ranked 12th in net profit gain at 32% with a market share of 23.01% On the other hand, Arizona performed exceptionally well, with a 68% net profit gain and a market share of 0.27%.
 
-**Insights:**
+## Insights
 
 -	Top 5 leading states has the highest total profit but not the highest net profit
 -	Health spending, property price, and state income are interconnected because they partly represent the state’s economic status. Take note that supply and demand always affect these values.
 
-**Recommendation:**
+## Recommendations
 
 **Investing with the states with the highest net profit gain:**
 
@@ -344,7 +344,7 @@ Focusing on the top 10 states with the highest net profit gain can be a strategi
 7.	**ROI Potential:** Investing in states where people are already experiencing a boost in net profit could potentially yield a higher return on investment (ROI). The likelihood of your product being well-received and purchased is higher in these regions.
 8.	**Market Expansion:** If health tracker smartwatch gains popularity in these states with strong net profit gain, it could serve as a springboard for expanding your market presence to adjacent regions.
 
--	**Avoiding states with the highest net profit loss:**
+**Avoiding states with the highest net profit loss:**
   
 Avoiding the states with the highest net profit loss may be the best strategy for investing your product. Here are some the reasons why we need to avoid investing in these states:
 
@@ -356,9 +356,7 @@ Avoiding the states with the highest net profit loss may be the best strategy fo
 6.	**Competitive Landscape:** When economic conditions are tough, competition among businesses intensifies as they strive to attract fewer consumer dollars. This might make it challenging to establish a strong foothold in the market.
 7.	**Delayed ROI:** Investing in states experiencing net profit losses might lead to a longer period before you see a return on your investment. Consumers may be more hesitant to adopt new products during times of economic uncertainty.
 
-
-
--	**Investing on the states with net profit gain and least market share:**
+**Investing on the states with net profit gain and least market share:**
   
 Focusing on the states with the highest net profit gain and their corresponding market shares can indeed be a strategic approach for investing your product. Here's why these states are appealing for your health tracker smartwatch product:
 
