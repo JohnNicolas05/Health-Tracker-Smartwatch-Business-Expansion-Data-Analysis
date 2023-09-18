@@ -1,4 +1,4 @@
-# Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis
+# Health Tracker Smartwatch Business Expansion Data Analysis
 
 ## Objective
 
@@ -31,7 +31,7 @@ Calculate Financial Viability Metrics from Competitor Companies.
 
 A startup, based in Los Angeles, California, is launching a Health Tracker Smartwatch and has gained investors for business expansion. The company's objective is to expand it's operations to a new state outside of California. However, this expansion requires careful consideration of various factors such as economic, political, and social conditions of the target state. In order to ensure a successful expansion, the company decided to conduct comprehensive research involving data analysis, with the goal of identifying the most suitable location. The company's objective is to expand and foster the growth of their startup business. They aim to select one or two states within the United States for the expansion of their Health Tracker Smartwatch business.
 
-# Steps
+# Data Analysis Process
 
 **SQL:**
 
