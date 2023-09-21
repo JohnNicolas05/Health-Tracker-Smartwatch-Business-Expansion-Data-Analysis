@@ -226,18 +226,19 @@ Output:
 
 **Top 10 States with the Highest Profit Gain**
 
-![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/931b9fed-478c-4ebc-8b50-6487ce90ac2c) ![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/d425d40f-fc8f-4fac-8751-391a0fa5d410)
+![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/d94cd619-1e82-40b2-8271-5e033fde55bb)
+
 
 
 **Top 10 States with the Highest Profit Loss**
 
-![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/4dde7bde-020f-451b-b8a9-109df1cd50c9) ![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/a93731f6-624c-497d-8d0d-89a1d9e8d6fe)
+![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/36c4c636-9f05-462e-9035-a2cd87b993da)
 
 **Getting Competitor Market Share:**
 
 Estimated Customers = Profit / Average Health Spending
 
-Market Share = (Population / Estimated Customers) * 100
+Market Share = (Estimated Customers / Population) * 100
 
 Output:
 
