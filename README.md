@@ -31,6 +31,85 @@ Calculate Financial Viability Metrics from Competitor Companies.
 
 A startup, based in Los Angeles, California, is launching a Health Tracker Smartwatch and has gained investors for business expansion. The company's objective is to expand it's operations to a new state outside of California. However, this expansion requires careful consideration of various factors such as economic, political, and social conditions of the target state. In order to ensure a successful expansion, the company decided to conduct comprehensive research involving data analysis, with the goal of identifying the most suitable location. The company's objective is to expand and foster the growth of their startup business. They aim to select one or two states within the United States for the expansion of their Health Tracker Smartwatch business.
 
+## Dataset
+
+The dataset came from the training platform and cosist of only a .tar file. I extracted and restored the database using SQL.
+
+**Competitor companies’ profit and expenditures** — The data set provided consists of the company's profit data and their spending.
+
+**Corruption conviction per capita** — level of corruption per state.
+
+**Health spending** — average, minimum, and maxim spending for healthcare-related products and services per person.
+
+**Property prices** — average, minimum, and maximum property prices per square meter.
+
+**State income** — average, minimum, and maximum income per person.
+
+**Population** — population of states.
+
+**Competitor companies’ profit and expenditures**
+
+The provided dataset consists of profit and spending data for companies. The column containing the company names has been removed for privacy reasons.
+
+| Column Name                 | Data Type | Description                                  |
+|-----------------------------|-----------|----------------------------------------------|
+| research_developnment_spent | numeric   | the amount spent on research and development |
+| administration              | numeric   | the amount spent on staff                    |
+| marketing_spent             | numeric   | the amount spend on of company's product     |
+| state_usa                   | string    | where the company is located                 |
+| profit                      | numeric   | the profit of the company                    |
+
+**Corruption Convictions per Capita**
+
+Corruption convictions per capita is a metric that measures the number of corruption convictions in a state divided by the state's population. It is a way to assess the level of corruption in a state by taking into account the population size.
+
+| Column Name            | Data Type | Description                                       |
+|------------------------|-----------|---------------------------------------------------|
+| state_usa              | string    | the US State                                      |
+| convictions_per_capita | numeric   | the number of convictions over state’s population |
+
+**Health spending**
+
+Average, minimum, and maximum spending for healthcare-related products and services per person.
+
+| Column Name  | Data Type | Description                                                     |
+|--------------|-----------|-----------------------------------------------------------------|
+| state_usa    | string    | the US State                                                    |
+| avg_spending | numeric   | the average value describing the healthcare spending per person |
+| min_spending | numeric   | the minimum value describing the healthcare spending per person |
+| max_spending | numeric   | the maximum value describing the healthcare spending per person |
+
+**Property prices**
+
+Average, minimum, and maximum property prices per square meter.
+
+| Column Name | Data Type | Description                                                       |
+|-------------|-----------|-------------------------------------------------------------------|
+| state_usa   | string    | the US State                                                      |
+| avg_price   | numeric   | the average value describing the property prices per square meter |
+| min_price   | numeric   | the minimum value describing the property prices per square meter |
+| max_price   | numeric   | the maximum value describing the property prices per square meter |
+
+**State income**
+
+Average, minimum, and maximum income per state.
+
+| Column Name | Data Type | Description                                               |
+|-------------|-----------|-----------------------------------------------------------|
+| state_usa   | string    | the US State                                              |
+| avg_income  | numeric   | the average value describing the average income per state |
+| min_income  | numeric   | the minimum value describing the average income per state |
+| max_income  | numeric   | the maximum value describing the average income per state |
+
+**Population**
+
+Population of states.
+
+| Column Name | Data Type | Description                    |
+|-------------|-----------|--------------------------------|
+| state_usa   | string    | the US State                   |
+| estimate    | numeric   | the estimated number of people |
+
 ## Data Analysis Process
 
 **SQL:**
