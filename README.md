@@ -411,8 +411,7 @@ Output:
 
 ## Recommendations
 
-![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/94fdb9a8-8809-4566-84f9-7286aae15e9a)
-
+![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/e16bb4bd-49d9-42dd-b11c-6385a69473a4)
 
 **Investing with the states with the highest net profit gain:**
 
