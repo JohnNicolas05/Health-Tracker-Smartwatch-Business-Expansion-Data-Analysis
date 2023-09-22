@@ -332,6 +332,9 @@ Output:
 
 ## Recommendations
 
+![image](https://github.com/JohnNicolas05/Health-Tracker-Smartwatch-Business-Expansion-Data-Analysis/assets/34438775/94fdb9a8-8809-4566-84f9-7286aae15e9a)
+
+
 **Investing with the states with the highest net profit gain:**
 
 Focusing on the top 10 states with the highest net profit gain can be a strategic decision for investing health tracker smartwatch. We will elaborate why these states are worth considering for your product investment:
