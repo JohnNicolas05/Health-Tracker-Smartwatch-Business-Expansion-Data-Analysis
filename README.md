@@ -33,7 +33,7 @@ A startup, based in Los Angeles, California, is launching a Health Tracker Smart
 
 ## Dataset
 
-The dataset came from the training platform and cosist of only a .tar file. I extracted and restored the database using SQL.
+The dataset came from the training platform and consist of only a .tar file. I extracted and restored the database using SQL.
 
 **Competitor companies’ profit and expenditures** — The data set provided consists of the company's profit data and their spending.
 
